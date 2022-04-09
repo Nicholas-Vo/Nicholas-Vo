@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Vo&count_private=true)
+![Metrics](https://metrics.lecoq.io/Nicholas-Vo?template=classic&config.timezone=America%2FChicago)
